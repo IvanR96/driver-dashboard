@@ -1,0 +1,11 @@
+
+
+.app {
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  background-color: #0d6efd;
+}
